@@ -1,0 +1,15 @@
+C:\Users\kronem\Documents\Udemy C#\exerciciosPOO_1\bin\Debug\net10.0\exerciciosPOO_1.exe
+C:\Users\kronem\Documents\Udemy C#\exerciciosPOO_1\bin\Debug\net10.0\exerciciosPOO_1.deps.json
+C:\Users\kronem\Documents\Udemy C#\exerciciosPOO_1\bin\Debug\net10.0\exerciciosPOO_1.runtimeconfig.json
+C:\Users\kronem\Documents\Udemy C#\exerciciosPOO_1\bin\Debug\net10.0\exerciciosPOO_1.dll
+C:\Users\kronem\Documents\Udemy C#\exerciciosPOO_1\bin\Debug\net10.0\exerciciosPOO_1.pdb
+C:\Users\kronem\Documents\Udemy C#\exerciciosPOO_1\obj\Debug\net10.0\exerciciosPOO_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kronem\Documents\Udemy C#\exerciciosPOO_1\obj\Debug\net10.0\exerciciosPOO_1.AssemblyInfoInputs.cache
+C:\Users\kronem\Documents\Udemy C#\exerciciosPOO_1\obj\Debug\net10.0\exerciciosPOO_1.AssemblyInfo.cs
+C:\Users\kronem\Documents\Udemy C#\exerciciosPOO_1\obj\Debug\net10.0\exerciciosPOO_1.csproj.CoreCompileInputs.cache
+C:\Users\kronem\Documents\Udemy C#\exerciciosPOO_1\obj\Debug\net10.0\exerciciosPOO_1.dll
+C:\Users\kronem\Documents\Udemy C#\exerciciosPOO_1\obj\Debug\net10.0\refint\exerciciosPOO_1.dll
+C:\Users\kronem\Documents\Udemy C#\exerciciosPOO_1\obj\Debug\net10.0\exerciciosPOO_1.pdb
+C:\Users\kronem\Documents\Udemy C#\exerciciosPOO_1\obj\Debug\net10.0\exerciciosPOO_1.genruntimeconfig.cache
+C:\Users\kronem\Documents\Udemy C#\exerciciosPOO_1\obj\Debug\net10.0\ref\exerciciosPOO_1.dll
+C:\Users\kronem\Documents\Udemy C#\exerciciosPOO_1\obj\Debug\net10.0\exercici.BD6A056C.Up2Date

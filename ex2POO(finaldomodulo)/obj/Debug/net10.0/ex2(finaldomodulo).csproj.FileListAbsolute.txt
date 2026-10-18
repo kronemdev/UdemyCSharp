@@ -1,0 +1,15 @@
+C:\Users\kronem\Documents\Udemy C#\ex2(finaldomodulo)\bin\Debug\net10.0\ex2(finaldomodulo).exe
+C:\Users\kronem\Documents\Udemy C#\ex2(finaldomodulo)\bin\Debug\net10.0\ex2(finaldomodulo).deps.json
+C:\Users\kronem\Documents\Udemy C#\ex2(finaldomodulo)\bin\Debug\net10.0\ex2(finaldomodulo).runtimeconfig.json
+C:\Users\kronem\Documents\Udemy C#\ex2(finaldomodulo)\bin\Debug\net10.0\ex2(finaldomodulo).dll
+C:\Users\kronem\Documents\Udemy C#\ex2(finaldomodulo)\bin\Debug\net10.0\ex2(finaldomodulo).pdb
+C:\Users\kronem\Documents\Udemy C#\ex2(finaldomodulo)\obj\Debug\net10.0\ex2(finaldomodulo).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kronem\Documents\Udemy C#\ex2(finaldomodulo)\obj\Debug\net10.0\ex2(finaldomodulo).AssemblyInfoInputs.cache
+C:\Users\kronem\Documents\Udemy C#\ex2(finaldomodulo)\obj\Debug\net10.0\ex2(finaldomodulo).AssemblyInfo.cs
+C:\Users\kronem\Documents\Udemy C#\ex2(finaldomodulo)\obj\Debug\net10.0\ex2(finaldomodulo).csproj.CoreCompileInputs.cache
+C:\Users\kronem\Documents\Udemy C#\ex2(finaldomodulo)\obj\Debug\net10.0\ex2(finaldomodulo).dll
+C:\Users\kronem\Documents\Udemy C#\ex2(finaldomodulo)\obj\Debug\net10.0\refint\ex2(finaldomodulo).dll
+C:\Users\kronem\Documents\Udemy C#\ex2(finaldomodulo)\obj\Debug\net10.0\ex2(finaldomodulo).pdb
+C:\Users\kronem\Documents\Udemy C#\ex2(finaldomodulo)\obj\Debug\net10.0\ex2(finaldomodulo).genruntimeconfig.cache
+C:\Users\kronem\Documents\Udemy C#\ex2(finaldomodulo)\obj\Debug\net10.0\ref\ex2(finaldomodulo).dll
+C:\Users\kronem\Documents\Udemy C#\ex2(finaldomodulo)\obj\Debug\net10.0\ex2(fina.CC89CF55.Up2Date

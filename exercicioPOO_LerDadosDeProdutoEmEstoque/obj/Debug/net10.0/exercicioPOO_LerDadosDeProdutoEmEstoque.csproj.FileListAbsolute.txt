@@ -1,0 +1,15 @@
+C:\Users\kronem\Documents\Udemy C#\exercicioPOO_LerDadosDeProdutoEmEstoque\bin\Debug\net10.0\exercicioPOO_LerDadosDeProdutoEmEstoque.exe
+C:\Users\kronem\Documents\Udemy C#\exercicioPOO_LerDadosDeProdutoEmEstoque\bin\Debug\net10.0\exercicioPOO_LerDadosDeProdutoEmEstoque.deps.json
+C:\Users\kronem\Documents\Udemy C#\exercicioPOO_LerDadosDeProdutoEmEstoque\bin\Debug\net10.0\exercicioPOO_LerDadosDeProdutoEmEstoque.runtimeconfig.json
+C:\Users\kronem\Documents\Udemy C#\exercicioPOO_LerDadosDeProdutoEmEstoque\bin\Debug\net10.0\exercicioPOO_LerDadosDeProdutoEmEstoque.dll
+C:\Users\kronem\Documents\Udemy C#\exercicioPOO_LerDadosDeProdutoEmEstoque\bin\Debug\net10.0\exercicioPOO_LerDadosDeProdutoEmEstoque.pdb
+C:\Users\kronem\Documents\Udemy C#\exercicioPOO_LerDadosDeProdutoEmEstoque\obj\Debug\net10.0\exercicioPOO_LerDadosDeProdutoEmEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kronem\Documents\Udemy C#\exercicioPOO_LerDadosDeProdutoEmEstoque\obj\Debug\net10.0\exercicioPOO_LerDadosDeProdutoEmEstoque.AssemblyInfoInputs.cache
+C:\Users\kronem\Documents\Udemy C#\exercicioPOO_LerDadosDeProdutoEmEstoque\obj\Debug\net10.0\exercicioPOO_LerDadosDeProdutoEmEstoque.AssemblyInfo.cs
+C:\Users\kronem\Documents\Udemy C#\exercicioPOO_LerDadosDeProdutoEmEstoque\obj\Debug\net10.0\exercicioPOO_LerDadosDeProdutoEmEstoque.csproj.CoreCompileInputs.cache
+C:\Users\kronem\Documents\Udemy C#\exercicioPOO_LerDadosDeProdutoEmEstoque\obj\Debug\net10.0\exercicioPOO_LerDadosDeProdutoEmEstoque.dll
+C:\Users\kronem\Documents\Udemy C#\exercicioPOO_LerDadosDeProdutoEmEstoque\obj\Debug\net10.0\refint\exercicioPOO_LerDadosDeProdutoEmEstoque.dll
+C:\Users\kronem\Documents\Udemy C#\exercicioPOO_LerDadosDeProdutoEmEstoque\obj\Debug\net10.0\exercicioPOO_LerDadosDeProdutoEmEstoque.pdb
+C:\Users\kronem\Documents\Udemy C#\exercicioPOO_LerDadosDeProdutoEmEstoque\obj\Debug\net10.0\exercicioPOO_LerDadosDeProdutoEmEstoque.genruntimeconfig.cache
+C:\Users\kronem\Documents\Udemy C#\exercicioPOO_LerDadosDeProdutoEmEstoque\obj\Debug\net10.0\ref\exercicioPOO_LerDadosDeProdutoEmEstoque.dll
+C:\Users\kronem\Documents\Udemy C#\exercicioPOO_LerDadosDeProdutoEmEstoque\obj\Debug\net10.0\exercici.2914BC0B.Up2Date
