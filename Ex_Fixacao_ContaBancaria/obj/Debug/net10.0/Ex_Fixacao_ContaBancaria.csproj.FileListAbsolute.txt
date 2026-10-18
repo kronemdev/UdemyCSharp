@@ -1,0 +1,16 @@
+C:\Users\kronem\Documents\Udemy C#\Ex_Fixacao_ContaBancaria\bin\Debug\net10.0\Ex_Fixacao_ContaBancaria.exe
+C:\Users\kronem\Documents\Udemy C#\Ex_Fixacao_ContaBancaria\bin\Debug\net10.0\Ex_Fixacao_ContaBancaria.deps.json
+C:\Users\kronem\Documents\Udemy C#\Ex_Fixacao_ContaBancaria\bin\Debug\net10.0\Ex_Fixacao_ContaBancaria.runtimeconfig.json
+C:\Users\kronem\Documents\Udemy C#\Ex_Fixacao_ContaBancaria\bin\Debug\net10.0\Ex_Fixacao_ContaBancaria.dll
+C:\Users\kronem\Documents\Udemy C#\Ex_Fixacao_ContaBancaria\bin\Debug\net10.0\Ex_Fixacao_ContaBancaria.pdb
+C:\Users\kronem\Documents\Udemy C#\Ex_Fixacao_ContaBancaria\obj\Debug\net10.0\Ex_Fixacao_ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kronem\Documents\Udemy C#\Ex_Fixacao_ContaBancaria\obj\Debug\net10.0\Ex_Fixacao_ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\kronem\Documents\Udemy C#\Ex_Fixacao_ContaBancaria\obj\Debug\net10.0\Ex_Fixacao_ContaBancaria.AssemblyInfo.cs
+C:\Users\kronem\Documents\Udemy C#\Ex_Fixacao_ContaBancaria\obj\Debug\net10.0\Ex_Fixacao_ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\kronem\Documents\Udemy C#\Ex_Fixacao_ContaBancaria\obj\Debug\net10.0\Ex_Fixacao_ContaBancaria.sourcelink.json
+C:\Users\kronem\Documents\Udemy C#\Ex_Fixacao_ContaBancaria\obj\Debug\net10.0\Ex_Fixacao_ContaBancaria.dll
+C:\Users\kronem\Documents\Udemy C#\Ex_Fixacao_ContaBancaria\obj\Debug\net10.0\refint\Ex_Fixacao_ContaBancaria.dll
+C:\Users\kronem\Documents\Udemy C#\Ex_Fixacao_ContaBancaria\obj\Debug\net10.0\Ex_Fixacao_ContaBancaria.pdb
+C:\Users\kronem\Documents\Udemy C#\Ex_Fixacao_ContaBancaria\obj\Debug\net10.0\Ex_Fixacao_ContaBancaria.genruntimeconfig.cache
+C:\Users\kronem\Documents\Udemy C#\Ex_Fixacao_ContaBancaria\obj\Debug\net10.0\ref\Ex_Fixacao_ContaBancaria.dll
+C:\Users\kronem\Documents\Udemy C#\Ex_Fixacao_ContaBancaria\obj\Debug\net10.0\Ex_Fixac.6724C038.Up2Date
